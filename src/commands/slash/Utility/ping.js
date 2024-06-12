@@ -6,7 +6,7 @@ module.exports = {
         .setName('ping')
         .setDescription('Replies with pong!'),
     options: {
-        cooldown: 5000
+        cooldown: 500
     },
     /**
      * @param {ExtendedClient} client 
